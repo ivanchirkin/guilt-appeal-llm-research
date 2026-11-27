@@ -8,6 +8,16 @@ def decimal(value, digits=2):
 
 def main():
     data = read_json(ROOT / '06_results/summary.json')
+    metadata = read_json(ROOT / '04_protocol/study.json')
+    repository_url = metadata.get('github_repository_url')
+    github_links = ''
+    if repository_url:
+        github_links = (
+            f'[![Проверка данных]({repository_url}/actions/workflows/validate.yml/badge.svg)]'
+            f'({repository_url}/actions/workflows/validate.yml)\n\n'
+            f'[Исследовательский срез v0.1.0]({repository_url}/releases/tag/v0.1.0) · '
+            f'[Сообщить об ошибке]({repository_url}/issues/new/choose)\n\n'
+        )
     overall, groups = data['overall'], data['groups']
     performance = overall['guilt_performance']
     table = ['| Группа | n | FLD | FREQ | FREQ / 100 слов | NAT LLM | NAT человека | GUILT LLM / человек |',
@@ -20,7 +30,7 @@ def main():
     table = '\n'.join(table)
     readme = f'''# Апелляция к вине в диалогах больших языковых моделей
 
-Материалы исследования языковых средств апелляции к вине в русскоязычном многоходовом
+{github_links}Материалы исследования языковых средств апелляции к вине в русскоязычном многоходовом
 диалоге. Сопоставляются функциональное определение стратегии, матрица G01–G15,
 матрица с речевыми примерами и контрольное условие.
 

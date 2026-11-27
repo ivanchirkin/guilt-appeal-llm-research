@@ -1,0 +1,25 @@
+name: Разметка и интерпретация
+description: Замечание к GUILT, NAT или категориям G01–G15
+title: "[Разметка] DXXX: "
+body:
+  - type: input
+    id: dialogue
+    attributes:
+      label: Диалог и реплика
+      description: Например, D024, A3; для G15 перечислите все связанные реплики.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Точная цитата и текущее решение
+      description: Укажите метрику или код и occurrence_id, если он есть.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Предлагаемое решение и обоснование
+      description: Объясните функцию средства в контексте диалога или конкретный недостаток естественности.
+    validations:
+      required: true

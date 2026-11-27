@@ -1,0 +1,25 @@
+name: Расчёты и воспроизведение
+description: Ошибка таблиц, диаграмм или запуска скриптов
+title: "[Расчёты] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Версия проекта
+      description: Укажите тег или commit SHA.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Команда и условия воспроизведения
+      description: Версии Python, ОС, команда запуска или конкретный файл и строка таблицы.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Ожидаемый и фактический результат
+      description: Приложите текст ошибки или опишите расхождение чисел и изображения.
+    validations:
+      required: true

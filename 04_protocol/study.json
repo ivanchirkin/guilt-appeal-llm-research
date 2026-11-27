@@ -39,7 +39,8 @@
   "annotation_model_as_reported_in_article": "Astra / High",
   "annotation_exact_version": null,
   "github_account_discovered": "ivanchirkin",
-  "github_repository_url": null,
+  "github_repository_url": "https://github.com/ivanchirkin/guilt-appeal-llm-research",
+  "github_visibility": "private",
   "code_license": null,
   "data_license": null
 }

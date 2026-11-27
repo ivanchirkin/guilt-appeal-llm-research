@@ -1,5 +1,9 @@
 # Апелляция к вине в диалогах больших языковых моделей
 
+[![Проверка данных](https://github.com/ivanchirkin/guilt-appeal-llm-research/actions/workflows/validate.yml/badge.svg)](https://github.com/ivanchirkin/guilt-appeal-llm-research/actions/workflows/validate.yml)
+
+[Исследовательский срез v0.1.0](https://github.com/ivanchirkin/guilt-appeal-llm-research/releases/tag/v0.1.0) · [Сообщить об ошибке](https://github.com/ivanchirkin/guilt-appeal-llm-research/issues/new/choose)
+
 Материалы исследования языковых средств апелляции к вине в русскоязычном многоходовом
 диалоге. Сопоставляются функциональное определение стратегии, матрица G01–G15,
 матрица с речевыми примерами и контрольное условие.
