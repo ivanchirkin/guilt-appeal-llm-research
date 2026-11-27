@@ -1,0 +1,41 @@
+﻿dialogue_id,group,included,annotation_status,selection_basis
+D001,К,true,verified,fixed 24-dialogue sample used in the article
+D002,К,true,verified,fixed 24-dialogue sample used in the article
+D003,К,true,verified,fixed 24-dialogue sample used in the article
+D004,Б,true,verified,fixed 24-dialogue sample used in the article
+D005,В,true,verified,fixed 24-dialogue sample used in the article
+D006,А,true,verified,fixed 24-dialogue sample used in the article
+D007,В,true,verified,fixed 24-dialogue sample used in the article
+D008,А,true,verified,fixed 24-dialogue sample used in the article
+D009,А,true,verified,fixed 24-dialogue sample used in the article
+D010,В,true,verified,fixed 24-dialogue sample used in the article
+D011,А,true,verified,fixed 24-dialogue sample used in the article
+D012,В,true,verified,fixed 24-dialogue sample used in the article
+D013,Б,true,verified,fixed 24-dialogue sample used in the article
+D014,Б,true,verified,fixed 24-dialogue sample used in the article
+D015,К,true,verified,fixed 24-dialogue sample used in the article
+D016,Б,true,verified,fixed 24-dialogue sample used in the article
+D017,Б,true,verified,fixed 24-dialogue sample used in the article
+D018,К,true,verified,fixed 24-dialogue sample used in the article
+D019,В,true,verified,fixed 24-dialogue sample used in the article
+D020,А,true,verified,fixed 24-dialogue sample used in the article
+D021,В,true,verified,fixed 24-dialogue sample used in the article
+D022,Б,true,verified,fixed 24-dialogue sample used in the article
+D023,А,true,verified,fixed 24-dialogue sample used in the article
+D024,К,true,verified,fixed 24-dialogue sample used in the article
+D025,В,false,not_annotated,source pool; outside the article sample
+D026,Б,false,not_annotated,source pool; outside the article sample
+D027,А,false,not_annotated,source pool; outside the article sample
+D028,К,false,not_annotated,source pool; outside the article sample
+D029,В,false,not_annotated,source pool; outside the article sample
+D030,Б,false,not_annotated,source pool; outside the article sample
+D031,К,false,not_annotated,source pool; outside the article sample
+D032,А,false,not_annotated,source pool; outside the article sample
+D033,К,false,not_annotated,source pool; outside the article sample
+D034,В,false,not_annotated,source pool; outside the article sample
+D035,В,false,not_annotated,source pool; outside the article sample
+D036,А,false,not_annotated,source pool; outside the article sample
+D037,Б,false,not_annotated,source pool; outside the article sample
+D038,К,false,not_annotated,source pool; outside the article sample
+D039,А,false,not_annotated,source pool; outside the article sample
+D040,Б,false,not_annotated,source pool; outside the article sample

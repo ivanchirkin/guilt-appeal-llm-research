@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936pt" height="540pt" viewBox="0 0 936 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 936 540 
+L 936 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 84.24 453.6 
+L 907.92 453.6 
+L 907.92 118.8 
+L 84.24 118.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="191.689756" y="470.718125" transform="rotate(-0 191.689756 470.718125)">К</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="394.616585" y="470.718125" transform="rotate(-0 394.616585 470.718125)">А</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="597.543415" y="470.718125" transform="rotate(-0 597.543415 470.718125)">Б</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="800.470244" y="470.718125" transform="rotate(-0 800.470244 470.718125)">В</text>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="496.08" y="486.331875" transform="rotate(-0 496.08 486.331875)">Группа диалогов</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <path d="M 84.24 453.6 
+L 907.92 453.6 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="458.159063" transform="rotate(-0 76.24 458.159063)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <path d="M 84.24 386.64 
+L 907.92 386.64 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="391.199062" transform="rotate(-0 76.24 391.199062)">1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <path d="M 84.24 319.68 
+L 907.92 319.68 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="324.239063" transform="rotate(-0 76.24 324.239063)">2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <path d="M 84.24 252.72 
+L 907.92 252.72 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="257.279062" transform="rotate(-0 76.24 257.279062)">3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_13">
+      <path d="M 84.24 185.76 
+L 907.92 185.76 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14"/>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="190.319062" transform="rotate(-0 76.24 190.319062)">4</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <path d="M 84.24 118.8 
+L 907.92 118.8 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="123.359062" transform="rotate(-0 76.24 123.359062)">5</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="62.109375" y="286.2" transform="rotate(-90 62.109375 286.2)">Средний балл NAT</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 121.68 453.6 
+L 188.645854 453.6 
+L 188.645854 263.88 
+L 121.68 263.88 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #2764c5"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 324.606829 453.6 
+L 391.572683 453.6 
+L 391.572683 297.36 
+L 324.606829 297.36 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #2764c5"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 527.533659 453.6 
+L 594.499512 453.6 
+L 594.499512 286.2 
+L 527.533659 286.2 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #2764c5"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 730.460488 453.6 
+L 797.426341 453.6 
+L 797.426341 263.88 
+L 730.460488 263.88 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #2764c5"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 194.733659 453.6 
+L 261.699512 453.6 
+L 261.699512 230.4 
+L 194.733659 230.4 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #dc7b29"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 397.660488 453.6 
+L 464.626341 453.6 
+L 464.626341 275.04 
+L 397.660488 275.04 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #dc7b29"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 600.587317 453.6 
+L 667.553171 453.6 
+L 667.553171 241.56 
+L 600.587317 241.56 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #dc7b29"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 803.514146 453.6 
+L 870.48 453.6 
+L 870.48 230.4 
+L 803.514146 230.4 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #dc7b29"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 84.24 453.6 
+L 907.92 453.6 
+" style="fill: none; stroke: #b9c3d0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="155.162927" y="258.88" transform="rotate(-0 155.162927 258.88)">2,83</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="358.089756" y="292.36" transform="rotate(-0 358.089756 292.36)">2,33</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="561.016585" y="281.2" transform="rotate(-0 561.016585 281.2)">2,50</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="763.943415" y="258.88" transform="rotate(-0 763.943415 258.88)">2,83</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="228.216585" y="225.4" transform="rotate(-0 228.216585 225.4)">3,33</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="431.143415" y="270.04" transform="rotate(-0 431.143415 270.04)">2,67</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="634.070244" y="236.56" transform="rotate(-0 634.070244 236.56)">3,17</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="836.997073" y="225.4" transform="rotate(-0 836.997073 225.4)">3,33</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_12">
+     <path d="M 95.04 92.112375 
+L 119.04 92.112375 
+L 119.04 83.712375 
+L 95.04 83.712375 
+z
+" style="fill: #2764c5; stroke: #2764c5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2738" x="128.64" y="92.112375" transform="rotate(-0 128.64 92.112375)">LLM</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 176.36625 92.112375 
+L 200.36625 92.112375 
+L 200.36625 83.712375 
+L 176.36625 83.712375 
+z
+" style="fill: #dc7b29; stroke: #dc7b29; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2738" x="209.96625" y="92.112375" transform="rotate(-0 209.96625 92.112375)">Человек</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_23">
+   <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2738" x="84.24" y="41.288594" transform="rotate(-0 84.24 41.288594)">Средняя естественность диалогов по группам</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdf004fc952">
+   <rect x="84.24" y="118.8" width="823.68" height="334.8"/>
+  </clipPath>
+ </defs>
+</svg>

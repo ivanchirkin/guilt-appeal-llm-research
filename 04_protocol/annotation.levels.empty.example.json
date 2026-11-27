@@ -1,0 +1,16 @@
+{
+  "dialogue_id": "D001",
+  "human_assessment": null,
+  "guilt": {
+    "value": null,
+    "model_correct": null,
+    "evidence": []
+  },
+  "nat": {
+    "score": null,
+    "reason": "",
+    "issues": []
+  },
+  "occurrences": [],
+  "review_status": "pending"
+}

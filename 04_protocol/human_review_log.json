@@ -1,0 +1,245 @@
+{
+  "approval_date": "2026-11-27",
+  "records": [
+    {
+      "dialogue_id": "D001",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "ee18a551391e44888b1c9340f2a17a05b18e8efac6863efed4f4e2b10098e0eb",
+      "sha256_after": "f1f3d430c87627f68b0f22357e2a73acfe66b2fb4ca7527a3a1951d51e483894"
+    },
+    {
+      "dialogue_id": "D002",
+      "previous_status": "verified",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "7fc03a47b7261446603975f360fd90696ba4b62c2feafd05088933e3fa74ec8d",
+      "sha256_after": "07e6f56cc9444ceb9f36148bab891984f145915b6549e4e1b59c063c713d5833"
+    },
+    {
+      "dialogue_id": "D003",
+      "previous_status": "verified",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "0f6d052ca06018b8a2dc8cc2c5e2df46287dfe5883b12a07fcfd9a4e765149eb",
+      "sha256_after": "591f1dce18be1b158af8f6464bf81a71549b16d67de6358833ffabd618a4c71a"
+    },
+    {
+      "dialogue_id": "D004",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "35f029da8412c5f99615c83b413392d4b0ed5b315a113808673128ec97741dc3",
+      "sha256_after": "2cd61b79cf3438191b9504739c8466921b2aefee13f027a2d3f1007c777b354f"
+    },
+    {
+      "dialogue_id": "D005",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "626becdfe58a845475fad6416af520816a55ae15712aefdbcb62a7976def9414",
+      "sha256_after": "3037024d56dafd16ce3178b820eaa541b88494628e80039a624f88106a8df7de"
+    },
+    {
+      "dialogue_id": "D006",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "c2b422af9f3deb7b9d65763027b94cf45936177ccc8c45bf86863af7eacea983",
+      "sha256_after": "99c468103110c06cf13e82a36e00c2113f073d5428ccc6ff858f24641ea192f1"
+    },
+    {
+      "dialogue_id": "D007",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "7054d81351dd89d1bbaa9ca2f9e382306a1dd6424dc972ff9a1156884538612e",
+      "sha256_after": "a9ff8f0f00af3cd4bd6a7b2e623bdb11483a551aa87f0d70a628b841213b77dc"
+    },
+    {
+      "dialogue_id": "D008",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "4ceca0679346eadb403a9c40a141ee482c90d7796a2300eeff245c83eb833a61",
+      "sha256_after": "a5ce4d03d8984dd4146d74572d215e50a3608e6f08f86fe9676a5632888c989b"
+    },
+    {
+      "dialogue_id": "D009",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "9d40682f365ab2e594c7c51d2dfdbcc393784e358c3588247ddab4acc8e01e28",
+      "sha256_after": "0952b972cf199027f23d937e11123cf42916492a896a47513d76ee8dddc0c966"
+    },
+    {
+      "dialogue_id": "D010",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "98de7b60f99877ae1afbc3354184ed54fef2afe5b9963fc2cf26b5c351d8d2bf",
+      "sha256_after": "14caa0053d0848423add41f32d5e0b0cc016935acf19f3f29364737c820fdea5"
+    },
+    {
+      "dialogue_id": "D011",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "edc9e4b4ab6596808d9f2f63422db02c9216c3060301c633ed5161a6c75c18b9",
+      "sha256_after": "902e41f4ba366b1f707b523de4304014b257e3eda91bb31556b9b8e694fc589c"
+    },
+    {
+      "dialogue_id": "D012",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "ba52ea400af434510ab64a6e36dad28c5f6428b8fd0217d4ca00b3c2d48cd946",
+      "sha256_after": "812d0c019488669e3492271a19779f7401d627bc9d4a6516d896fe563dc6ebbe"
+    },
+    {
+      "dialogue_id": "D013",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "ec319fe8ab1134354b9052c377e6bd5152cb0a26c39f3091a571ebdc409bcb21",
+      "sha256_after": "82a65258abe2719e23373480ec05191586743e3f889cedb31a8b9296f4dd581c"
+    },
+    {
+      "dialogue_id": "D014",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "082ef5fc636c5c2ac3f19e35a3c2f24978f1bd1d26d55f811ce96b7bb2d10e32",
+      "sha256_after": "751bfd4efb9c57319882c164407ea803ad411b91b9cc9ca7feb6a3cf2e0fe765"
+    },
+    {
+      "dialogue_id": "D015",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "89bc151946b13874a2d6f92b0fe09af370d92f923cbf92986c0c342db5f99399",
+      "sha256_after": "0bc5d3aeff0477eb028404733db6c0427122e102352b13793333692648e030a0"
+    },
+    {
+      "dialogue_id": "D016",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "22aa891fdc0185fee4e2d8d79dacfeb5af0bdfee6e39c943e9fc8eb9fd2fffa8",
+      "sha256_after": "040448c456fc77ee67954962c1e907db79473be8973cabecce5b7e8239f6d6ac"
+    },
+    {
+      "dialogue_id": "D017",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "15982a420b8d19c5d6111d057c781c1c965181de69de53833696c43171ed824b",
+      "sha256_after": "3fca2e9836f3c3dc8db5de62f06d6799754c6b39605f62ba95baf92d8d7de6f2"
+    },
+    {
+      "dialogue_id": "D018",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "02eb16cd022642786ca6d34179176acd2121b3673c16f4600bbadf7866dcf0ae",
+      "sha256_after": "426cacea2f8380522fe768b583ae87bb287b58a94515ff53ed23737d0113c79c"
+    },
+    {
+      "dialogue_id": "D019",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "db477ac8e29a35fb3e604ba67e203dae40553b850adc94998ce08318b3c69d6f",
+      "sha256_after": "27c49f5b11ea2ef124d9a5c97ef73ed5c45a9853f750c7b7b34ec92bcd5c5f27"
+    },
+    {
+      "dialogue_id": "D020",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "b890ec094089a53a0f7b868f35b8202ab5625e1f69c10fbc787dbeb627d5af2a",
+      "sha256_after": "f0c4def6baeea3bc0df528f9147f51d6ec1a706eba9773a161e252a0b70805dd"
+    },
+    {
+      "dialogue_id": "D021",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "ad9a4b2f63d286bb88d5ffa405cee146b3a4f902435ae077530ab8d08f5d4a90",
+      "sha256_after": "69c714bd2da04a943b4fd532b5f32dfded12a2384da633f1b51a83b385a874db"
+    },
+    {
+      "dialogue_id": "D022",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "e6e73c51e17fd603128f721dc92710749bd53823adda2fe457c1f0c4c342b08c",
+      "sha256_after": "02620a8faa3e68c2f98cc43aba954b2602f44f78d87f77b8bddf840ce23dbd58"
+    },
+    {
+      "dialogue_id": "D023",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "34db00fe7ee6cd71ef988040b2e16c2fea85aa36d0cc1a80f470a890780b8d3d",
+      "sha256_after": "54561e8cd85cbec5b686b12ffe115f0efaf47adec61a88307150fda543fcc3cf"
+    },
+    {
+      "dialogue_id": "D024",
+      "previous_status": "pending",
+      "review_status": "verified",
+      "approval_date": "2026-11-27",
+      "authority": "explicit instruction of the project author in the research chat",
+      "approval_scope": "human review status; original model predictions and disagreements retained",
+      "sha256_before": "40ef87dcc865222aef5dc070e6d9b672d871f8aadd97a808f051282aa11a39a9",
+      "sha256_after": "ab1f196b7711af5bcae2be770d59c009cb898c3204392a6172d07854d385adfc"
+    }
+  ]
+}

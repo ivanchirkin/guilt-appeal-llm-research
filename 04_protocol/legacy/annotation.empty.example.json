@@ -1,0 +1,14 @@
+{
+  "dialogue_id": "D001",
+  "review_status": "pending",
+  "guilt": {
+    "value": null,
+    "evidence": []
+  },
+  "nat": {
+    "value": null,
+    "problem_fragments": [],
+    "explanation": ""
+  },
+  "occurrences": []
+}

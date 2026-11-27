@@ -1,0 +1,20 @@
+{
+  "figures": [
+    {
+      "article_figure": 1,
+      "caption": "Рисунок 1. Математическое обоснование метрик GUILT, FLD, FREQ, NAT",
+      "file": "06_results/figures/article/figure_1_1.png",
+      "sha256": "1693f501999a98f4b6169724ecf17fb230005f20c025c996048c2abab984d969",
+      "source": "Черновой текст статьи.docx",
+      "source_sha256": "88d93387b3a01537ad121a75000cb753427580eeaa4433c9b203ad60455a2a31"
+    },
+    {
+      "article_figure": 2,
+      "caption": "Рисунок 2. Вариативность промптов для генерации диалогов",
+      "file": "06_results/figures/article/figure_2_1.png",
+      "sha256": "4299ab434466ca0e1a7f0e911259dc46c3177674eca5cefc723e04c04e3d5d9d",
+      "source": "Черновой текст статьи.docx",
+      "source_sha256": "88d93387b3a01537ad121a75000cb753427580eeaa4433c9b203ad60455a2a31"
+    }
+  ]
+}

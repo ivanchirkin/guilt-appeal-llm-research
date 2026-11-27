@@ -1,0 +1,457 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Многоуровневая аннотация GUILT / NAT / G01–G15",
+  "description": "Current annotation schema. verified records human review and does not imply agreement with the model.",
+  "type": "object",
+  "properties": {
+    "dialogue_id": {
+      "type": "string",
+      "pattern": "^D(00[1-9]|0[1-3][0-9]|040)$"
+    },
+    "human_assessment": {
+      "enum": [
+        0,
+        1,
+        null
+      ],
+      "description": "Оценка человека по распределению, указанному исследователем: 1 для групп А, Б и В, 0 для группы К. Null означает, что оценка не внесена. Групповая метка сама по себе не документирует независимую индивидуальную экспертизу диалога."
+    },
+    "guilt": {
+      "type": "object",
+      "properties": {
+        "value": {
+          "enum": [
+            0,
+            1,
+            null
+          ]
+        },
+        "model_correct": {
+          "type": [
+            "boolean",
+            "null"
+          ],
+          "description": "Совпадение guilt.value с human_assessment: true — совпадает, false — различается, null — сравнение ещё невозможно."
+        },
+        "evidence": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "turn": {
+                "type": "string",
+                "pattern": "^A[1-6]$"
+              },
+              "quote": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "turn",
+              "quote",
+              "reason"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "value",
+        "model_correct",
+        "evidence"
+      ],
+      "additionalProperties": false
+    },
+    "nat": {
+      "type": "object",
+      "properties": {
+        "score": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1,
+          "maximum": 5
+        },
+        "reason": {
+          "type": "string"
+        },
+        "issues": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "turn": {
+                "type": "string",
+                "pattern": "^A[1-6]$"
+              },
+              "quote": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "turn",
+              "quote",
+              "reason"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "score",
+        "reason",
+        "issues"
+      ],
+      "additionalProperties": false
+    },
+    "occurrences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "occurrence_id": {
+            "type": "string",
+            "pattern": "^E[0-9]{3,}$"
+          },
+          "code": {
+            "enum": [
+              "G01",
+              "G02",
+              "G03",
+              "G04",
+              "G05",
+              "G06",
+              "G07",
+              "G08",
+              "G09",
+              "G10",
+              "G11",
+              "G12",
+              "G13",
+              "G14",
+              "G15"
+            ]
+          },
+          "level": {
+            "enum": [
+              "лексический",
+              "словообразовательный",
+              "морфологический",
+              "лексико-грамматический",
+              "синтаксический",
+              "семантико-прагматический",
+              "текстово-дискурсивный"
+            ]
+          },
+          "turns": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 6,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "pattern": "^A[1-6]$"
+            }
+          },
+          "quotes": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "function": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "occurrence_id",
+          "code",
+          "level",
+          "turns",
+          "quotes",
+          "function"
+        ],
+        "additionalProperties": false,
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "enum": [
+                    "G01",
+                    "G02",
+                    "G03",
+                    "G04"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "level": {
+                  "const": "лексический"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "enum": [
+                    "G05"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "level": {
+                  "const": "словообразовательный"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "enum": [
+                    "G06"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "level": {
+                  "const": "морфологический"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "enum": [
+                    "G07",
+                    "G08",
+                    "G09"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "level": {
+                  "const": "лексико-грамматический"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "enum": [
+                    "G10",
+                    "G11",
+                    "G12",
+                    "G13"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "level": {
+                  "const": "синтаксический"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "enum": [
+                    "G14"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "level": {
+                  "const": "семантико-прагматический"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "enum": [
+                    "G15"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "level": {
+                  "const": "текстово-дискурсивный"
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "code": {
+                  "const": "G15"
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "turns": {
+                  "minItems": 2
+                },
+                "quotes": {
+                  "minItems": 2
+                }
+              }
+            },
+            "else": {
+              "properties": {
+                "turns": {
+                  "maxItems": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "review_status": {
+      "enum": [
+        "pending",
+        "verified"
+      ],
+      "description": "pending: awaiting human review; verified: checked by the project author. False model decisions remain recorded."
+    }
+  },
+  "required": [
+    "dialogue_id",
+    "human_assessment",
+    "guilt",
+    "nat",
+    "occurrences",
+    "review_status"
+  ],
+  "additionalProperties": false,
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "guilt": {
+            "properties": {
+              "value": {
+                "const": 0
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "guilt": {
+            "properties": {
+              "evidence": {
+                "maxItems": 0
+              }
+            }
+          },
+          "occurrences": {
+            "maxItems": 0
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "guilt": {
+            "properties": {
+              "value": {
+                "const": 1
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "guilt": {
+            "properties": {
+              "evidence": {
+                "minItems": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "review_status": {
+            "const": "verified"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "guilt": {
+            "properties": {
+              "value": {
+                "enum": [
+                  0,
+                  1
+                ]
+              }
+            }
+          },
+          "nat": {
+            "properties": {
+              "score": {
+                "type": "integer"
+              },
+              "reason": {
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

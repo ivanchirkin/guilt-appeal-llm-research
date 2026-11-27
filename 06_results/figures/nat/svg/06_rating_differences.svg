@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936pt" height="540pt" viewBox="0 0 936 540" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 540 
+L 936 540 
+L 936 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 84.24 453.6 
+L 907.92 453.6 
+L 907.92 118.8 
+L 84.24 118.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="174.015484" y="470.718125" transform="rotate(-0 174.015484 470.718125)">-2</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="335.047742" y="470.718125" transform="rotate(-0 335.047742 470.718125)">-1</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="496.08" y="470.718125" transform="rotate(-0 496.08 470.718125)">0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="657.112258" y="470.718125" transform="rotate(-0 657.112258 470.718125)">+1</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #526075" x="818.144516" y="470.718125" transform="rotate(-0 818.144516 470.718125)">+2</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="496.08" y="486.331875" transform="rotate(-0 496.08 486.331875)">NAT человека − NAT модели</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <path d="M 84.24 453.6 
+L 907.92 453.6 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="458.159063" transform="rotate(-0 76.24 458.159063)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <path d="M 84.24 386.64 
+L 907.92 386.64 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_8">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="391.199062" transform="rotate(-0 76.24 391.199062)">2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <path d="M 84.24 319.68 
+L 907.92 319.68 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_9">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="324.239063" transform="rotate(-0 76.24 324.239063)">4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <path d="M 84.24 252.72 
+L 907.92 252.72 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_10">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="257.279062" transform="rotate(-0 76.24 257.279062)">6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <path d="M 84.24 185.76 
+L 907.92 185.76 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_11">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="190.319062" transform="rotate(-0 76.24 190.319062)">8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16">
+      <path d="M 84.24 118.8 
+L 907.92 118.8 
+" clip-path="url(#pdf004fc952)" style="fill: none; stroke: #dee5ef; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #526075" x="76.24" y="123.359062" transform="rotate(-0 76.24 123.359062)">10</text>
+     </g>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="54.474375" y="286.2" transform="rotate(-90 54.474375 286.2)">Количество диалогов</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 121.68 453.6 
+L 226.350968 453.6 
+L 226.350968 420.12 
+L 121.68 420.12 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #2764c5"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 282.712258 453.6 
+L 387.383226 453.6 
+L 387.383226 353.16 
+L 282.712258 353.16 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #2764c5"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 443.744516 453.6 
+L 548.415484 453.6 
+L 548.415484 185.76 
+L 443.744516 185.76 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #8793a4"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 604.776774 453.6 
+L 709.447742 453.6 
+L 709.447742 219.24 
+L 604.776774 219.24 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #dc7b29"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 765.809032 453.6 
+L 870.48 453.6 
+L 870.48 286.2 
+L 765.809032 286.2 
+z
+" clip-path="url(#pdf004fc952)" style="fill: #dc7b29"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 84.24 453.6 
+L 907.92 453.6 
+" style="fill: none; stroke: #b9c3d0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="174.015484" y="415.12" transform="rotate(-0 174.015484 415.12)">1</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="335.047742" y="348.16" transform="rotate(-0 335.047742 348.16)">3</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="496.08" y="180.76" transform="rotate(-0 496.08 180.76)">8</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="657.112258" y="214.24" transform="rotate(-0 657.112258 214.24)">7</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1b2738" x="818.144516" y="281.2" transform="rotate(-0 818.144516 281.2)">5</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_9">
+     <path d="M 95.04 92.112375 
+L 119.04 92.112375 
+L 119.04 83.712375 
+L 95.04 83.712375 
+z
+" style="fill: #2764c5; stroke: #2764c5; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2738" x="128.64" y="92.112375" transform="rotate(-0 128.64 92.112375)">Выше у LLM</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 227.1675 92.112375 
+L 251.1675 92.112375 
+L 251.1675 83.712375 
+L 227.1675 83.712375 
+z
+" style="fill: #8793a4; stroke: #8793a4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2738" x="260.7675" y="92.112375" transform="rotate(-0 260.7675 92.112375)">Совпадение</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 361.468125 92.112375 
+L 385.468125 92.112375 
+L 385.468125 83.712375 
+L 361.468125 83.712375 
+z
+" style="fill: #dc7b29; stroke: #dc7b29; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2738" x="395.068125" y="92.112375" transform="rotate(-0 395.068125 92.112375)">Выше у человека</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_22">
+   <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1b2738" x="84.24" y="41.437031" transform="rotate(-0 84.24 41.437031)">Разности оценок естественности</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pdf004fc952">
+   <rect x="84.24" y="118.8" width="823.68" height="334.8"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,2135 @@
+{
+  "snapshot_date": "2026-11-27",
+  "scope": "D001–D024; only A1–A6; verified annotations; original model decisions preserved",
+  "reference_guilt_origin": "Author-provided group labels: А/Б/В=1, К=0; not an independent blind text adjudication",
+  "fld_freq_origin": "Counts of saved model-coded occurrences, including disputed control occurrences",
+  "normalization": "FREQ_100 group mean is the mean of dialogue ratios; pooled ratio is reported separately",
+  "records": [
+    {
+      "dialogue_id": "D001",
+      "group": "К",
+      "review_status": "verified",
+      "GUILT_human": 0,
+      "GUILT_llm": 0,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 1,
+      "FLD": 0,
+      "FREQ": 0,
+      "word_count": 269,
+      "FREQ_100": 0.0
+    },
+    {
+      "dialogue_id": "D002",
+      "group": "К",
+      "review_status": "verified",
+      "GUILT_human": 0,
+      "GUILT_llm": 0,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 3,
+      "FLD": 0,
+      "FREQ": 0,
+      "word_count": 292,
+      "FREQ_100": 0.0
+    },
+    {
+      "dialogue_id": "D003",
+      "group": "К",
+      "review_status": "verified",
+      "GUILT_human": 0,
+      "GUILT_llm": 0,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 4,
+      "FLD": 0,
+      "FREQ": 0,
+      "word_count": 288,
+      "FREQ_100": 0.0
+    },
+    {
+      "dialogue_id": "D004",
+      "group": "Б",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 4,
+      "FLD": 5,
+      "FREQ": 13,
+      "word_count": 283,
+      "FREQ_100": 4.593639575971731
+    },
+    {
+      "dialogue_id": "D005",
+      "group": "В",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 2,
+      "FLD": 9,
+      "FREQ": 26,
+      "word_count": 215,
+      "FREQ_100": 12.093023255813954
+    },
+    {
+      "dialogue_id": "D006",
+      "group": "А",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 2,
+      "FLD": 7,
+      "FREQ": 19,
+      "word_count": 232,
+      "FREQ_100": 8.189655172413794
+    },
+    {
+      "dialogue_id": "D007",
+      "group": "В",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 4,
+      "FLD": 10,
+      "FREQ": 40,
+      "word_count": 181,
+      "FREQ_100": 22.099447513812155
+    },
+    {
+      "dialogue_id": "D008",
+      "group": "А",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 2,
+      "FLD": 8,
+      "FREQ": 37,
+      "word_count": 340,
+      "FREQ_100": 10.882352941176471
+    },
+    {
+      "dialogue_id": "D009",
+      "group": "А",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 2,
+      "FLD": 8,
+      "FREQ": 24,
+      "word_count": 260,
+      "FREQ_100": 9.23076923076923
+    },
+    {
+      "dialogue_id": "D010",
+      "group": "В",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 5,
+      "FLD": 8,
+      "FREQ": 31,
+      "word_count": 172,
+      "FREQ_100": 18.023255813953487
+    },
+    {
+      "dialogue_id": "D011",
+      "group": "А",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 3,
+      "FLD": 11,
+      "FREQ": 49,
+      "word_count": 395,
+      "FREQ_100": 12.405063291139241
+    },
+    {
+      "dialogue_id": "D012",
+      "group": "В",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 4,
+      "FLD": 11,
+      "FREQ": 37,
+      "word_count": 193,
+      "FREQ_100": 19.17098445595855
+    },
+    {
+      "dialogue_id": "D013",
+      "group": "Б",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 3,
+      "FLD": 13,
+      "FREQ": 41,
+      "word_count": 180,
+      "FREQ_100": 22.77777777777778
+    },
+    {
+      "dialogue_id": "D014",
+      "group": "Б",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 4,
+      "FLD": 12,
+      "FREQ": 50,
+      "word_count": 283,
+      "FREQ_100": 17.6678445229682
+    },
+    {
+      "dialogue_id": "D015",
+      "group": "К",
+      "review_status": "verified",
+      "GUILT_human": 0,
+      "GUILT_llm": 1,
+      "GUILT_match": false,
+      "NAT_llm": 3,
+      "NAT_human": 3,
+      "FLD": 3,
+      "FREQ": 3,
+      "word_count": 290,
+      "FREQ_100": 1.0344827586206897
+    },
+    {
+      "dialogue_id": "D016",
+      "group": "Б",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 2,
+      "NAT_human": 3,
+      "FLD": 11,
+      "FREQ": 38,
+      "word_count": 271,
+      "FREQ_100": 14.022140221402214
+    },
+    {
+      "dialogue_id": "D017",
+      "group": "Б",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 2,
+      "FLD": 12,
+      "FREQ": 47,
+      "word_count": 223,
+      "FREQ_100": 21.076233183856502
+    },
+    {
+      "dialogue_id": "D018",
+      "group": "К",
+      "review_status": "verified",
+      "GUILT_human": 0,
+      "GUILT_llm": 1,
+      "GUILT_match": false,
+      "NAT_llm": 3,
+      "NAT_human": 4,
+      "FLD": 3,
+      "FREQ": 3,
+      "word_count": 347,
+      "FREQ_100": 0.8645533141210374
+    },
+    {
+      "dialogue_id": "D019",
+      "group": "В",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 2,
+      "FLD": 10,
+      "FREQ": 39,
+      "word_count": 306,
+      "FREQ_100": 12.745098039215685
+    },
+    {
+      "dialogue_id": "D020",
+      "group": "А",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 3,
+      "FLD": 10,
+      "FREQ": 25,
+      "word_count": 284,
+      "FREQ_100": 8.80281690140845
+    },
+    {
+      "dialogue_id": "D021",
+      "group": "В",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 4,
+      "NAT_human": 3,
+      "FLD": 12,
+      "FREQ": 46,
+      "word_count": 175,
+      "FREQ_100": 26.285714285714285
+    },
+    {
+      "dialogue_id": "D022",
+      "group": "Б",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 3,
+      "FLD": 10,
+      "FREQ": 44,
+      "word_count": 183,
+      "FREQ_100": 24.043715846994534
+    },
+    {
+      "dialogue_id": "D023",
+      "group": "А",
+      "review_status": "verified",
+      "GUILT_human": 1,
+      "GUILT_llm": 1,
+      "GUILT_match": true,
+      "NAT_llm": 3,
+      "NAT_human": 4,
+      "FLD": 8,
+      "FREQ": 31,
+      "word_count": 249,
+      "FREQ_100": 12.449799196787149
+    },
+    {
+      "dialogue_id": "D024",
+      "group": "К",
+      "review_status": "verified",
+      "GUILT_human": 0,
+      "GUILT_llm": 1,
+      "GUILT_match": false,
+      "NAT_llm": 3,
+      "NAT_human": 5,
+      "FLD": 5,
+      "FREQ": 6,
+      "word_count": 364,
+      "FREQ_100": 1.6483516483516483
+    }
+  ],
+  "overall": {
+    "n": 24,
+    "FLD": {
+      "n": 24,
+      "mean": 7.75,
+      "median": 8.5,
+      "min": 0,
+      "max": 13
+    },
+    "FREQ": {
+      "n": 24,
+      "mean": 27.041666666666668,
+      "median": 31.0,
+      "min": 0,
+      "max": 50
+    },
+    "NAT_llm": {
+      "n": 24,
+      "mean": 2.625,
+      "median": 3.0,
+      "min": 2,
+      "max": 4
+    },
+    "NAT_human": {
+      "n": 24,
+      "mean": 3.125,
+      "median": 3.0,
+      "min": 1,
+      "max": 5
+    },
+    "word_count": {
+      "n": 24,
+      "mean": 261.4583333333333,
+      "median": 270.0,
+      "min": 172,
+      "max": 395
+    },
+    "FREQ_100": {
+      "n": 24,
+      "mean": 11.67111328950945,
+      "median": 12.249043273476598,
+      "min": 0.0,
+      "max": 26.285714285714285
+    },
+    "FREQ_total": 649,
+    "word_count_total": 6275,
+    "FREQ_100_pooled": 10.342629482071713,
+    "guilt_positive_llm": 21,
+    "guilt_positive_human": 18,
+    "guilt_performance": {
+      "TP": 18,
+      "FN": 0,
+      "FP": 3,
+      "TN": 3,
+      "accuracy": 0.875,
+      "sensitivity": 1.0,
+      "specificity": 0.5,
+      "precision_positive": 0.8571428571428571,
+      "false_positive_rate": 0.5,
+      "balanced_accuracy": 0.75,
+      "disagreements": [
+        "D015",
+        "D018",
+        "D024"
+      ]
+    },
+    "nat_distribution": {
+      "llm": {
+        "1": 0,
+        "2": 10,
+        "3": 13,
+        "4": 1,
+        "5": 0
+      },
+      "human": {
+        "1": 1,
+        "2": 6,
+        "3": 8,
+        "4": 7,
+        "5": 2
+      }
+    },
+    "nat_agreement": {
+      "exact_n": 8,
+      "exact_share": 0.3333333333333333,
+      "within_one_n": 18,
+      "human_higher_n": 12,
+      "llm_higher_n": 4,
+      "mean_difference_human_minus_llm": 0.5,
+      "mean_absolute_difference": 0.9166666666666666
+    }
+  },
+  "groups": {
+    "К": {
+      "n": 6,
+      "FLD": {
+        "n": 6,
+        "mean": 1.8333333333333333,
+        "median": 1.5,
+        "min": 0,
+        "max": 5
+      },
+      "FREQ": {
+        "n": 6,
+        "mean": 2,
+        "median": 1.5,
+        "min": 0,
+        "max": 6
+      },
+      "NAT_llm": {
+        "n": 6,
+        "mean": 2.8333333333333335,
+        "median": 3.0,
+        "min": 2,
+        "max": 3
+      },
+      "NAT_human": {
+        "n": 6,
+        "mean": 3.3333333333333335,
+        "median": 3.5,
+        "min": 1,
+        "max": 5
+      },
+      "word_count": {
+        "n": 6,
+        "mean": 308.3333333333333,
+        "median": 291.0,
+        "min": 269,
+        "max": 364
+      },
+      "FREQ_100": {
+        "n": 6,
+        "mean": 0.5912312868488959,
+        "median": 0.4322766570605187,
+        "min": 0.0,
+        "max": 1.6483516483516483
+      },
+      "FREQ_total": 12,
+      "word_count_total": 1850,
+      "FREQ_100_pooled": 0.6486486486486487,
+      "guilt_positive_llm": 3,
+      "guilt_positive_human": 0,
+      "guilt_performance": {
+        "TP": 0,
+        "FN": 0,
+        "FP": 3,
+        "TN": 3,
+        "accuracy": 0.5,
+        "sensitivity": null,
+        "specificity": 0.5,
+        "precision_positive": 0.0,
+        "false_positive_rate": 0.5,
+        "balanced_accuracy": null,
+        "disagreements": [
+          "D015",
+          "D018",
+          "D024"
+        ]
+      },
+      "nat_distribution": {
+        "llm": {
+          "1": 0,
+          "2": 1,
+          "3": 5,
+          "4": 0,
+          "5": 0
+        },
+        "human": {
+          "1": 1,
+          "2": 0,
+          "3": 2,
+          "4": 2,
+          "5": 1
+        }
+      },
+      "nat_agreement": {
+        "exact_n": 2,
+        "exact_share": 0.3333333333333333,
+        "within_one_n": 3,
+        "human_higher_n": 3,
+        "llm_higher_n": 1,
+        "mean_difference_human_minus_llm": 0.5,
+        "mean_absolute_difference": 1.1666666666666667
+      }
+    },
+    "А": {
+      "n": 6,
+      "FLD": {
+        "n": 6,
+        "mean": 8.666666666666666,
+        "median": 8.0,
+        "min": 7,
+        "max": 11
+      },
+      "FREQ": {
+        "n": 6,
+        "mean": 30.833333333333332,
+        "median": 28.0,
+        "min": 19,
+        "max": 49
+      },
+      "NAT_llm": {
+        "n": 6,
+        "mean": 2.3333333333333335,
+        "median": 2.0,
+        "min": 2,
+        "max": 3
+      },
+      "NAT_human": {
+        "n": 6,
+        "mean": 2.6666666666666665,
+        "median": 2.5,
+        "min": 2,
+        "max": 4
+      },
+      "word_count": {
+        "n": 6,
+        "mean": 293.3333333333333,
+        "median": 272.0,
+        "min": 232,
+        "max": 395
+      },
+      "FREQ_100": {
+        "n": 6,
+        "mean": 10.326742788949055,
+        "median": 10.05656108597285,
+        "min": 8.189655172413794,
+        "max": 12.449799196787149
+      },
+      "FREQ_total": 185,
+      "word_count_total": 1760,
+      "FREQ_100_pooled": 10.511363636363637,
+      "guilt_positive_llm": 6,
+      "guilt_positive_human": 6,
+      "guilt_performance": {
+        "TP": 6,
+        "FN": 0,
+        "FP": 0,
+        "TN": 0,
+        "accuracy": 1.0,
+        "sensitivity": 1.0,
+        "specificity": null,
+        "precision_positive": 1.0,
+        "false_positive_rate": null,
+        "balanced_accuracy": null,
+        "disagreements": []
+      },
+      "nat_distribution": {
+        "llm": {
+          "1": 0,
+          "2": 4,
+          "3": 2,
+          "4": 0,
+          "5": 0
+        },
+        "human": {
+          "1": 0,
+          "2": 3,
+          "3": 2,
+          "4": 1,
+          "5": 0
+        }
+      },
+      "nat_agreement": {
+        "exact_n": 4,
+        "exact_share": 0.6666666666666666,
+        "within_one_n": 6,
+        "human_higher_n": 2,
+        "llm_higher_n": 0,
+        "mean_difference_human_minus_llm": 0.3333333333333333,
+        "mean_absolute_difference": 0.3333333333333333
+      }
+    },
+    "Б": {
+      "n": 6,
+      "FLD": {
+        "n": 6,
+        "mean": 10.5,
+        "median": 11.5,
+        "min": 5,
+        "max": 13
+      },
+      "FREQ": {
+        "n": 6,
+        "mean": 38.833333333333336,
+        "median": 42.5,
+        "min": 13,
+        "max": 50
+      },
+      "NAT_llm": {
+        "n": 6,
+        "mean": 2.5,
+        "median": 2.5,
+        "min": 2,
+        "max": 3
+      },
+      "NAT_human": {
+        "n": 6,
+        "mean": 3.1666666666666665,
+        "median": 3.0,
+        "min": 2,
+        "max": 4
+      },
+      "word_count": {
+        "n": 6,
+        "mean": 237.16666666666666,
+        "median": 247.0,
+        "min": 180,
+        "max": 283
+      },
+      "FREQ_100": {
+        "n": 6,
+        "mean": 17.36355852149516,
+        "median": 19.37203885341235,
+        "min": 4.593639575971731,
+        "max": 24.043715846994534
+      },
+      "FREQ_total": 233,
+      "word_count_total": 1423,
+      "FREQ_100_pooled": 16.373858046380885,
+      "guilt_positive_llm": 6,
+      "guilt_positive_human": 6,
+      "guilt_performance": {
+        "TP": 6,
+        "FN": 0,
+        "FP": 0,
+        "TN": 0,
+        "accuracy": 1.0,
+        "sensitivity": 1.0,
+        "specificity": null,
+        "precision_positive": 1.0,
+        "false_positive_rate": null,
+        "balanced_accuracy": null,
+        "disagreements": []
+      },
+      "nat_distribution": {
+        "llm": {
+          "1": 0,
+          "2": 3,
+          "3": 3,
+          "4": 0,
+          "5": 0
+        },
+        "human": {
+          "1": 0,
+          "2": 1,
+          "3": 3,
+          "4": 2,
+          "5": 0
+        }
+      },
+      "nat_agreement": {
+        "exact_n": 1,
+        "exact_share": 0.16666666666666666,
+        "within_one_n": 5,
+        "human_higher_n": 4,
+        "llm_higher_n": 1,
+        "mean_difference_human_minus_llm": 0.6666666666666666,
+        "mean_absolute_difference": 1
+      }
+    },
+    "В": {
+      "n": 6,
+      "FLD": {
+        "n": 6,
+        "mean": 10,
+        "median": 10.0,
+        "min": 8,
+        "max": 12
+      },
+      "FREQ": {
+        "n": 6,
+        "mean": 36.5,
+        "median": 38.0,
+        "min": 26,
+        "max": 46
+      },
+      "NAT_llm": {
+        "n": 6,
+        "mean": 2.8333333333333335,
+        "median": 3.0,
+        "min": 2,
+        "max": 4
+      },
+      "NAT_human": {
+        "n": 6,
+        "mean": 3.3333333333333335,
+        "median": 3.5,
+        "min": 2,
+        "max": 5
+      },
+      "word_count": {
+        "n": 6,
+        "mean": 207,
+        "median": 187.0,
+        "min": 172,
+        "max": 306
+      },
+      "FREQ_100": {
+        "n": 6,
+        "mean": 18.402920560744686,
+        "median": 18.59712013495602,
+        "min": 12.093023255813954,
+        "max": 26.285714285714285
+      },
+      "FREQ_total": 219,
+      "word_count_total": 1242,
+      "FREQ_100_pooled": 17.632850241545892,
+      "guilt_positive_llm": 6,
+      "guilt_positive_human": 6,
+      "guilt_performance": {
+        "TP": 6,
+        "FN": 0,
+        "FP": 0,
+        "TN": 0,
+        "accuracy": 1.0,
+        "sensitivity": 1.0,
+        "specificity": null,
+        "precision_positive": 1.0,
+        "false_positive_rate": null,
+        "balanced_accuracy": null,
+        "disagreements": []
+      },
+      "nat_distribution": {
+        "llm": {
+          "1": 0,
+          "2": 2,
+          "3": 3,
+          "4": 1,
+          "5": 0
+        },
+        "human": {
+          "1": 0,
+          "2": 2,
+          "3": 1,
+          "4": 2,
+          "5": 1
+        }
+      },
+      "nat_agreement": {
+        "exact_n": 1,
+        "exact_share": 0.16666666666666666,
+        "within_one_n": 4,
+        "human_higher_n": 3,
+        "llm_higher_n": 2,
+        "mean_difference_human_minus_llm": 0.5,
+        "mean_absolute_difference": 1.1666666666666667
+      }
+    }
+  },
+  "categories": [
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G01",
+      "level": "лексический",
+      "frequency": 3,
+      "dialogues_present": 3,
+      "mean_per_dialogue": 0.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G02",
+      "level": "лексический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G03",
+      "level": "лексический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G04",
+      "level": "лексический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G05",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G06",
+      "level": "морфологический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G07",
+      "level": "лексико-грамматический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G08",
+      "level": "лексико-грамматический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G09",
+      "level": "лексико-грамматический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G10",
+      "level": "синтаксический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G11",
+      "level": "синтаксический",
+      "frequency": 3,
+      "dialogues_present": 3,
+      "mean_per_dialogue": 0.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G12",
+      "level": "синтаксический",
+      "frequency": 2,
+      "dialogues_present": 1,
+      "mean_per_dialogue": 0.3333333333333333
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G13",
+      "level": "синтаксический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G14",
+      "level": "семантико-прагматический",
+      "frequency": 3,
+      "dialogues_present": 3,
+      "mean_per_dialogue": 0.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "К",
+      "n": 6,
+      "code": "G15",
+      "level": "текстово-дискурсивный",
+      "frequency": 1,
+      "dialogues_present": 1,
+      "mean_per_dialogue": 0.16666666666666666
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G01",
+      "level": "лексический",
+      "frequency": 35,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 5.833333333333333
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G02",
+      "level": "лексический",
+      "frequency": 10,
+      "dialogues_present": 4,
+      "mean_per_dialogue": 1.6666666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G03",
+      "level": "лексический",
+      "frequency": 6,
+      "dialogues_present": 2,
+      "mean_per_dialogue": 1
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G04",
+      "level": "лексический",
+      "frequency": 1,
+      "dialogues_present": 1,
+      "mean_per_dialogue": 0.16666666666666666
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G05",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G06",
+      "level": "морфологический",
+      "frequency": 1,
+      "dialogues_present": 1,
+      "mean_per_dialogue": 0.16666666666666666
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G07",
+      "level": "лексико-грамматический",
+      "frequency": 9,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 1.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G08",
+      "level": "лексико-грамматический",
+      "frequency": 1,
+      "dialogues_present": 1,
+      "mean_per_dialogue": 0.16666666666666666
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G09",
+      "level": "лексико-грамматический",
+      "frequency": 19,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 3.1666666666666665
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G10",
+      "level": "синтаксический",
+      "frequency": 5,
+      "dialogues_present": 3,
+      "mean_per_dialogue": 0.8333333333333334
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G11",
+      "level": "синтаксический",
+      "frequency": 21,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 3.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G12",
+      "level": "синтаксический",
+      "frequency": 40,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 6.666666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G13",
+      "level": "синтаксический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G14",
+      "level": "семантико-прагматический",
+      "frequency": 31,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 5.166666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "А",
+      "n": 6,
+      "code": "G15",
+      "level": "текстово-дискурсивный",
+      "frequency": 6,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 1
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G01",
+      "level": "лексический",
+      "frequency": 28,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 4.666666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G02",
+      "level": "лексический",
+      "frequency": 14,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 2.3333333333333335
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G03",
+      "level": "лексический",
+      "frequency": 12,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 2
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G04",
+      "level": "лексический",
+      "frequency": 7,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 1.1666666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G05",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G06",
+      "level": "морфологический",
+      "frequency": 3,
+      "dialogues_present": 2,
+      "mean_per_dialogue": 0.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G07",
+      "level": "лексико-грамматический",
+      "frequency": 24,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 4
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G08",
+      "level": "лексико-грамматический",
+      "frequency": 6,
+      "dialogues_present": 2,
+      "mean_per_dialogue": 1
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G09",
+      "level": "лексико-грамматический",
+      "frequency": 16,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 2.6666666666666665
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G10",
+      "level": "синтаксический",
+      "frequency": 31,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 5.166666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G11",
+      "level": "синтаксический",
+      "frequency": 26,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 4.333333333333333
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G12",
+      "level": "синтаксический",
+      "frequency": 24,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 4
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G13",
+      "level": "синтаксический",
+      "frequency": 1,
+      "dialogues_present": 1,
+      "mean_per_dialogue": 0.16666666666666666
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G14",
+      "level": "семантико-прагматический",
+      "frequency": 35,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 5.833333333333333
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "Б",
+      "n": 6,
+      "code": "G15",
+      "level": "текстово-дискурсивный",
+      "frequency": 6,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 1
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G01",
+      "level": "лексический",
+      "frequency": 32,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 5.333333333333333
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G02",
+      "level": "лексический",
+      "frequency": 10,
+      "dialogues_present": 4,
+      "mean_per_dialogue": 1.6666666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G03",
+      "level": "лексический",
+      "frequency": 15,
+      "dialogues_present": 4,
+      "mean_per_dialogue": 2.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G04",
+      "level": "лексический",
+      "frequency": 2,
+      "dialogues_present": 2,
+      "mean_per_dialogue": 0.3333333333333333
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G05",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G06",
+      "level": "морфологический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G07",
+      "level": "лексико-грамматический",
+      "frequency": 14,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 2.3333333333333335
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G08",
+      "level": "лексико-грамматический",
+      "frequency": 6,
+      "dialogues_present": 4,
+      "mean_per_dialogue": 1
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G09",
+      "level": "лексико-грамматический",
+      "frequency": 22,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 3.6666666666666665
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G10",
+      "level": "синтаксический",
+      "frequency": 21,
+      "dialogues_present": 5,
+      "mean_per_dialogue": 3.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G11",
+      "level": "синтаксический",
+      "frequency": 21,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 3.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G12",
+      "level": "синтаксический",
+      "frequency": 31,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 5.166666666666667
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G13",
+      "level": "синтаксический",
+      "frequency": 0,
+      "dialogues_present": 0,
+      "mean_per_dialogue": 0
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G14",
+      "level": "семантико-прагматический",
+      "frequency": 39,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 6.5
+    },
+    {
+      "scope": "group",
+      "dialogue_id": "",
+      "group": "В",
+      "n": 6,
+      "code": "G15",
+      "level": "текстово-дискурсивный",
+      "frequency": 6,
+      "dialogues_present": 6,
+      "mean_per_dialogue": 1
+    }
+  ],
+  "levels": [
+    {
+      "group": "К",
+      "level": "лексический",
+      "frequency": 3,
+      "share_of_group_FREQ": 0.25
+    },
+    {
+      "group": "К",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "share_of_group_FREQ": 0.0
+    },
+    {
+      "group": "К",
+      "level": "морфологический",
+      "frequency": 0,
+      "share_of_group_FREQ": 0.0
+    },
+    {
+      "group": "К",
+      "level": "лексико-грамматический",
+      "frequency": 0,
+      "share_of_group_FREQ": 0.0
+    },
+    {
+      "group": "К",
+      "level": "синтаксический",
+      "frequency": 5,
+      "share_of_group_FREQ": 0.4166666666666667
+    },
+    {
+      "group": "К",
+      "level": "семантико-прагматический",
+      "frequency": 3,
+      "share_of_group_FREQ": 0.25
+    },
+    {
+      "group": "К",
+      "level": "текстово-дискурсивный",
+      "frequency": 1,
+      "share_of_group_FREQ": 0.08333333333333333
+    },
+    {
+      "group": "А",
+      "level": "лексический",
+      "frequency": 52,
+      "share_of_group_FREQ": 0.2810810810810811
+    },
+    {
+      "group": "А",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "share_of_group_FREQ": 0.0
+    },
+    {
+      "group": "А",
+      "level": "морфологический",
+      "frequency": 1,
+      "share_of_group_FREQ": 0.005405405405405406
+    },
+    {
+      "group": "А",
+      "level": "лексико-грамматический",
+      "frequency": 29,
+      "share_of_group_FREQ": 0.15675675675675677
+    },
+    {
+      "group": "А",
+      "level": "синтаксический",
+      "frequency": 66,
+      "share_of_group_FREQ": 0.3567567567567568
+    },
+    {
+      "group": "А",
+      "level": "семантико-прагматический",
+      "frequency": 31,
+      "share_of_group_FREQ": 0.16756756756756758
+    },
+    {
+      "group": "А",
+      "level": "текстово-дискурсивный",
+      "frequency": 6,
+      "share_of_group_FREQ": 0.032432432432432434
+    },
+    {
+      "group": "Б",
+      "level": "лексический",
+      "frequency": 61,
+      "share_of_group_FREQ": 0.26180257510729615
+    },
+    {
+      "group": "Б",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "share_of_group_FREQ": 0.0
+    },
+    {
+      "group": "Б",
+      "level": "морфологический",
+      "frequency": 3,
+      "share_of_group_FREQ": 0.012875536480686695
+    },
+    {
+      "group": "Б",
+      "level": "лексико-грамматический",
+      "frequency": 46,
+      "share_of_group_FREQ": 0.19742489270386265
+    },
+    {
+      "group": "Б",
+      "level": "синтаксический",
+      "frequency": 82,
+      "share_of_group_FREQ": 0.351931330472103
+    },
+    {
+      "group": "Б",
+      "level": "семантико-прагматический",
+      "frequency": 35,
+      "share_of_group_FREQ": 0.15021459227467812
+    },
+    {
+      "group": "Б",
+      "level": "текстово-дискурсивный",
+      "frequency": 6,
+      "share_of_group_FREQ": 0.02575107296137339
+    },
+    {
+      "group": "В",
+      "level": "лексический",
+      "frequency": 59,
+      "share_of_group_FREQ": 0.2694063926940639
+    },
+    {
+      "group": "В",
+      "level": "словообразовательный",
+      "frequency": 0,
+      "share_of_group_FREQ": 0.0
+    },
+    {
+      "group": "В",
+      "level": "морфологический",
+      "frequency": 0,
+      "share_of_group_FREQ": 0.0
+    },
+    {
+      "group": "В",
+      "level": "лексико-грамматический",
+      "frequency": 42,
+      "share_of_group_FREQ": 0.1917808219178082
+    },
+    {
+      "group": "В",
+      "level": "синтаксический",
+      "frequency": 73,
+      "share_of_group_FREQ": 0.3333333333333333
+    },
+    {
+      "group": "В",
+      "level": "семантико-прагматический",
+      "frequency": 39,
+      "share_of_group_FREQ": 0.1780821917808219
+    },
+    {
+      "group": "В",
+      "level": "текстово-дискурсивный",
+      "frequency": 6,
+      "share_of_group_FREQ": 0.0273972602739726
+    }
+  ],
+  "reference_gated_sensitivity": {
+    "status": "conditional scenario, not human reannotation",
+    "rule": "Set FLD/FREQ to zero when GUILT_human=0; do not change occurrences",
+    "overall": {
+      "n": 24,
+      "FLD": {
+        "n": 24,
+        "mean": 7.291666666666667,
+        "median": 8.5,
+        "min": 0,
+        "max": 13
+      },
+      "FREQ": {
+        "n": 24,
+        "mean": 26.541666666666668,
+        "median": 31.0,
+        "min": 0,
+        "max": 50
+      },
+      "NAT_llm": {
+        "n": 24,
+        "mean": 2.625,
+        "median": 3.0,
+        "min": 2,
+        "max": 4
+      },
+      "NAT_human": {
+        "n": 24,
+        "mean": 3.125,
+        "median": 3.0,
+        "min": 1,
+        "max": 5
+      },
+      "word_count": {
+        "n": 24,
+        "mean": 261.4583333333333,
+        "median": 270.0,
+        "min": 172,
+        "max": 395
+      },
+      "FREQ_100": {
+        "n": 24,
+        "mean": 11.523305467797226,
+        "median": 12.249043273476598,
+        "min": 0.0,
+        "max": 26.285714285714285
+      },
+      "FREQ_total": 637,
+      "word_count_total": 6275,
+      "FREQ_100_pooled": 10.151394422310757,
+      "guilt_positive_llm": 21,
+      "guilt_positive_human": 18,
+      "guilt_performance": {
+        "TP": 18,
+        "FN": 0,
+        "FP": 3,
+        "TN": 3,
+        "accuracy": 0.875,
+        "sensitivity": 1.0,
+        "specificity": 0.5,
+        "precision_positive": 0.8571428571428571,
+        "false_positive_rate": 0.5,
+        "balanced_accuracy": 0.75,
+        "disagreements": [
+          "D015",
+          "D018",
+          "D024"
+        ]
+      },
+      "nat_distribution": {
+        "llm": {
+          "1": 0,
+          "2": 10,
+          "3": 13,
+          "4": 1,
+          "5": 0
+        },
+        "human": {
+          "1": 1,
+          "2": 6,
+          "3": 8,
+          "4": 7,
+          "5": 2
+        }
+      },
+      "nat_agreement": {
+        "exact_n": 8,
+        "exact_share": 0.3333333333333333,
+        "within_one_n": 18,
+        "human_higher_n": 12,
+        "llm_higher_n": 4,
+        "mean_difference_human_minus_llm": 0.5,
+        "mean_absolute_difference": 0.9166666666666666
+      }
+    },
+    "groups": {
+      "К": {
+        "n": 6,
+        "FLD": {
+          "n": 6,
+          "mean": 0,
+          "median": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "FREQ": {
+          "n": 6,
+          "mean": 0,
+          "median": 0.0,
+          "min": 0,
+          "max": 0
+        },
+        "NAT_llm": {
+          "n": 6,
+          "mean": 2.8333333333333335,
+          "median": 3.0,
+          "min": 2,
+          "max": 3
+        },
+        "NAT_human": {
+          "n": 6,
+          "mean": 3.3333333333333335,
+          "median": 3.5,
+          "min": 1,
+          "max": 5
+        },
+        "word_count": {
+          "n": 6,
+          "mean": 308.3333333333333,
+          "median": 291.0,
+          "min": 269,
+          "max": 364
+        },
+        "FREQ_100": {
+          "n": 6,
+          "mean": 0.0,
+          "median": 0.0,
+          "min": 0.0,
+          "max": 0.0
+        },
+        "FREQ_total": 0,
+        "word_count_total": 1850,
+        "FREQ_100_pooled": 0.0,
+        "guilt_positive_llm": 3,
+        "guilt_positive_human": 0,
+        "guilt_performance": {
+          "TP": 0,
+          "FN": 0,
+          "FP": 3,
+          "TN": 3,
+          "accuracy": 0.5,
+          "sensitivity": null,
+          "specificity": 0.5,
+          "precision_positive": 0.0,
+          "false_positive_rate": 0.5,
+          "balanced_accuracy": null,
+          "disagreements": [
+            "D015",
+            "D018",
+            "D024"
+          ]
+        },
+        "nat_distribution": {
+          "llm": {
+            "1": 0,
+            "2": 1,
+            "3": 5,
+            "4": 0,
+            "5": 0
+          },
+          "human": {
+            "1": 1,
+            "2": 0,
+            "3": 2,
+            "4": 2,
+            "5": 1
+          }
+        },
+        "nat_agreement": {
+          "exact_n": 2,
+          "exact_share": 0.3333333333333333,
+          "within_one_n": 3,
+          "human_higher_n": 3,
+          "llm_higher_n": 1,
+          "mean_difference_human_minus_llm": 0.5,
+          "mean_absolute_difference": 1.1666666666666667
+        }
+      },
+      "А": {
+        "n": 6,
+        "FLD": {
+          "n": 6,
+          "mean": 8.666666666666666,
+          "median": 8.0,
+          "min": 7,
+          "max": 11
+        },
+        "FREQ": {
+          "n": 6,
+          "mean": 30.833333333333332,
+          "median": 28.0,
+          "min": 19,
+          "max": 49
+        },
+        "NAT_llm": {
+          "n": 6,
+          "mean": 2.3333333333333335,
+          "median": 2.0,
+          "min": 2,
+          "max": 3
+        },
+        "NAT_human": {
+          "n": 6,
+          "mean": 2.6666666666666665,
+          "median": 2.5,
+          "min": 2,
+          "max": 4
+        },
+        "word_count": {
+          "n": 6,
+          "mean": 293.3333333333333,
+          "median": 272.0,
+          "min": 232,
+          "max": 395
+        },
+        "FREQ_100": {
+          "n": 6,
+          "mean": 10.326742788949055,
+          "median": 10.05656108597285,
+          "min": 8.189655172413794,
+          "max": 12.449799196787149
+        },
+        "FREQ_total": 185,
+        "word_count_total": 1760,
+        "FREQ_100_pooled": 10.511363636363637,
+        "guilt_positive_llm": 6,
+        "guilt_positive_human": 6,
+        "guilt_performance": {
+          "TP": 6,
+          "FN": 0,
+          "FP": 0,
+          "TN": 0,
+          "accuracy": 1.0,
+          "sensitivity": 1.0,
+          "specificity": null,
+          "precision_positive": 1.0,
+          "false_positive_rate": null,
+          "balanced_accuracy": null,
+          "disagreements": []
+        },
+        "nat_distribution": {
+          "llm": {
+            "1": 0,
+            "2": 4,
+            "3": 2,
+            "4": 0,
+            "5": 0
+          },
+          "human": {
+            "1": 0,
+            "2": 3,
+            "3": 2,
+            "4": 1,
+            "5": 0
+          }
+        },
+        "nat_agreement": {
+          "exact_n": 4,
+          "exact_share": 0.6666666666666666,
+          "within_one_n": 6,
+          "human_higher_n": 2,
+          "llm_higher_n": 0,
+          "mean_difference_human_minus_llm": 0.3333333333333333,
+          "mean_absolute_difference": 0.3333333333333333
+        }
+      },
+      "Б": {
+        "n": 6,
+        "FLD": {
+          "n": 6,
+          "mean": 10.5,
+          "median": 11.5,
+          "min": 5,
+          "max": 13
+        },
+        "FREQ": {
+          "n": 6,
+          "mean": 38.833333333333336,
+          "median": 42.5,
+          "min": 13,
+          "max": 50
+        },
+        "NAT_llm": {
+          "n": 6,
+          "mean": 2.5,
+          "median": 2.5,
+          "min": 2,
+          "max": 3
+        },
+        "NAT_human": {
+          "n": 6,
+          "mean": 3.1666666666666665,
+          "median": 3.0,
+          "min": 2,
+          "max": 4
+        },
+        "word_count": {
+          "n": 6,
+          "mean": 237.16666666666666,
+          "median": 247.0,
+          "min": 180,
+          "max": 283
+        },
+        "FREQ_100": {
+          "n": 6,
+          "mean": 17.36355852149516,
+          "median": 19.37203885341235,
+          "min": 4.593639575971731,
+          "max": 24.043715846994534
+        },
+        "FREQ_total": 233,
+        "word_count_total": 1423,
+        "FREQ_100_pooled": 16.373858046380885,
+        "guilt_positive_llm": 6,
+        "guilt_positive_human": 6,
+        "guilt_performance": {
+          "TP": 6,
+          "FN": 0,
+          "FP": 0,
+          "TN": 0,
+          "accuracy": 1.0,
+          "sensitivity": 1.0,
+          "specificity": null,
+          "precision_positive": 1.0,
+          "false_positive_rate": null,
+          "balanced_accuracy": null,
+          "disagreements": []
+        },
+        "nat_distribution": {
+          "llm": {
+            "1": 0,
+            "2": 3,
+            "3": 3,
+            "4": 0,
+            "5": 0
+          },
+          "human": {
+            "1": 0,
+            "2": 1,
+            "3": 3,
+            "4": 2,
+            "5": 0
+          }
+        },
+        "nat_agreement": {
+          "exact_n": 1,
+          "exact_share": 0.16666666666666666,
+          "within_one_n": 5,
+          "human_higher_n": 4,
+          "llm_higher_n": 1,
+          "mean_difference_human_minus_llm": 0.6666666666666666,
+          "mean_absolute_difference": 1
+        }
+      },
+      "В": {
+        "n": 6,
+        "FLD": {
+          "n": 6,
+          "mean": 10,
+          "median": 10.0,
+          "min": 8,
+          "max": 12
+        },
+        "FREQ": {
+          "n": 6,
+          "mean": 36.5,
+          "median": 38.0,
+          "min": 26,
+          "max": 46
+        },
+        "NAT_llm": {
+          "n": 6,
+          "mean": 2.8333333333333335,
+          "median": 3.0,
+          "min": 2,
+          "max": 4
+        },
+        "NAT_human": {
+          "n": 6,
+          "mean": 3.3333333333333335,
+          "median": 3.5,
+          "min": 2,
+          "max": 5
+        },
+        "word_count": {
+          "n": 6,
+          "mean": 207,
+          "median": 187.0,
+          "min": 172,
+          "max": 306
+        },
+        "FREQ_100": {
+          "n": 6,
+          "mean": 18.402920560744686,
+          "median": 18.59712013495602,
+          "min": 12.093023255813954,
+          "max": 26.285714285714285
+        },
+        "FREQ_total": 219,
+        "word_count_total": 1242,
+        "FREQ_100_pooled": 17.632850241545892,
+        "guilt_positive_llm": 6,
+        "guilt_positive_human": 6,
+        "guilt_performance": {
+          "TP": 6,
+          "FN": 0,
+          "FP": 0,
+          "TN": 0,
+          "accuracy": 1.0,
+          "sensitivity": 1.0,
+          "specificity": null,
+          "precision_positive": 1.0,
+          "false_positive_rate": null,
+          "balanced_accuracy": null,
+          "disagreements": []
+        },
+        "nat_distribution": {
+          "llm": {
+            "1": 0,
+            "2": 2,
+            "3": 3,
+            "4": 1,
+            "5": 0
+          },
+          "human": {
+            "1": 0,
+            "2": 2,
+            "3": 1,
+            "4": 2,
+            "5": 1
+          }
+        },
+        "nat_agreement": {
+          "exact_n": 1,
+          "exact_share": 0.16666666666666666,
+          "within_one_n": 4,
+          "human_higher_n": 3,
+          "llm_higher_n": 2,
+          "mean_difference_human_minus_llm": 0.5,
+          "mean_absolute_difference": 1.1666666666666667
+        }
+      }
+    }
+  },
+  "source_sha256": {
+    "dialogue_registry.csv": "7e729a41699290ce8d7d61caee57381eca327cf4db015a4d31abe9210eb630c9",
+    "04_protocol/analysis_sample.csv": "dd7d679a2e28a3164e01835a14c6fa81a3b43ce7884f7097ff4f4e245e19e510",
+    "05_annotations/human_nat.csv": "a35d5669d6e3d99d2d6791c16580abc78b92d70bd33587edd585b1236e169322",
+    "04_protocol/annotation.levels.schema.json": "38f3abd699048e195ea7e9e2fc1bea7d2b16598062f1c8a73c5b4e71b377de4e",
+    "02_corpus/D001.md": "a844a759cc00c938c9a1b6af3898aa1a1caeb0f25dcfe01d50dfa1238ae4fd32",
+    "05_annotations/D001.json": "f1f3d430c87627f68b0f22357e2a73acfe66b2fb4ca7527a3a1951d51e483894",
+    "02_corpus/D002.md": "05ea71fc1130455d0fe4b1ca2da8f759337bcff836ef1e8d628f803394038532",
+    "05_annotations/D002.json": "07e6f56cc9444ceb9f36148bab891984f145915b6549e4e1b59c063c713d5833",
+    "02_corpus/D003.md": "1d31e960124ebb5a229e92cdedf700dac03920189413748d71295e9b63f9d9c8",
+    "05_annotations/D003.json": "591f1dce18be1b158af8f6464bf81a71549b16d67de6358833ffabd618a4c71a",
+    "02_corpus/D004.md": "12bc12dfa50ab08006bb83f502d51dd703ed9962973a0996866ff25ee4ecd0a1",
+    "05_annotations/D004.json": "2cd61b79cf3438191b9504739c8466921b2aefee13f027a2d3f1007c777b354f",
+    "02_corpus/D005.md": "70071d62199396fe5d38f3718c3bdc9e9b5ace0f48b99886146b1841a3922599",
+    "05_annotations/D005.json": "3037024d56dafd16ce3178b820eaa541b88494628e80039a624f88106a8df7de",
+    "02_corpus/D006.md": "65b93a97e54a2c4eb09371bb5acaed4193017c8b206a8e839fecd6810713b569",
+    "05_annotations/D006.json": "99c468103110c06cf13e82a36e00c2113f073d5428ccc6ff858f24641ea192f1",
+    "02_corpus/D007.md": "3b7d85d1e34d811e520adf5cf2bf5140cac530262cc6147c1bc7e76f40e02876",
+    "05_annotations/D007.json": "a9ff8f0f00af3cd4bd6a7b2e623bdb11483a551aa87f0d70a628b841213b77dc",
+    "02_corpus/D008.md": "a4c9357aa8ca9429a42b8fe3b681c7b782f7f093ef942ce3360b15b9dbbf82af",
+    "05_annotations/D008.json": "a5ce4d03d8984dd4146d74572d215e50a3608e6f08f86fe9676a5632888c989b",
+    "02_corpus/D009.md": "406168ef03301fbb507224de0af0e2d7191b4a969514d71706b5b3299f4e1ec0",
+    "05_annotations/D009.json": "0952b972cf199027f23d937e11123cf42916492a896a47513d76ee8dddc0c966",
+    "02_corpus/D010.md": "8c53a5f4be9531881efd4338a8d7e53d7980a0054e143402f2f070ce2a69c1f4",
+    "05_annotations/D010.json": "14caa0053d0848423add41f32d5e0b0cc016935acf19f3f29364737c820fdea5",
+    "02_corpus/D011.md": "2cec77b858f44aa6b8a3d37efe896668bcb4f8c6f0bd683ce2f5d36553ff760d",
+    "05_annotations/D011.json": "902e41f4ba366b1f707b523de4304014b257e3eda91bb31556b9b8e694fc589c",
+    "02_corpus/D012.md": "23ca055fb600f967f8346f77440990b02d5d8a95076909ae649af5a975e436bc",
+    "05_annotations/D012.json": "812d0c019488669e3492271a19779f7401d627bc9d4a6516d896fe563dc6ebbe",
+    "02_corpus/D013.md": "972578201443c9431b950bbb27b3da17badd5a487e625d460772a32dede21e4f",
+    "05_annotations/D013.json": "82a65258abe2719e23373480ec05191586743e3f889cedb31a8b9296f4dd581c",
+    "02_corpus/D014.md": "30d6f1e9f0aa5de9b0bd2da0fd4ee0a7862a528a586c74364b1bc09792dcc05b",
+    "05_annotations/D014.json": "751bfd4efb9c57319882c164407ea803ad411b91b9cc9ca7feb6a3cf2e0fe765",
+    "02_corpus/D015.md": "7d6ab5648b7f6a205f65ccbddb95c4ba4498aafe0691e763ac0078c29e1be802",
+    "05_annotations/D015.json": "0bc5d3aeff0477eb028404733db6c0427122e102352b13793333692648e030a0",
+    "02_corpus/D016.md": "01b6c50bd1f568aaa7572ef1be1e540c62b01d1c7436a454ef3432adc4107e7c",
+    "05_annotations/D016.json": "040448c456fc77ee67954962c1e907db79473be8973cabecce5b7e8239f6d6ac",
+    "02_corpus/D017.md": "12217764bf63ccb3159e2e9b7dc62754f5f807d104f2f0ff7e7b6539f3258b19",
+    "05_annotations/D017.json": "3fca2e9836f3c3dc8db5de62f06d6799754c6b39605f62ba95baf92d8d7de6f2",
+    "02_corpus/D018.md": "9017e51af8d31dd81bdb02c369c0c0a82250912a279ac3033257a7cbc5ac3cb1",
+    "05_annotations/D018.json": "426cacea2f8380522fe768b583ae87bb287b58a94515ff53ed23737d0113c79c",
+    "02_corpus/D019.md": "013b21a9df5ddaa8aff74fd18ca869425672727e8143c6ce99b449814600ff74",
+    "05_annotations/D019.json": "27c49f5b11ea2ef124d9a5c97ef73ed5c45a9853f750c7b7b34ec92bcd5c5f27",
+    "02_corpus/D020.md": "5c2af99f4fa789a3c8fb144a002a4d9c731a687d056157730697c9bd619865b8",
+    "05_annotations/D020.json": "f0c4def6baeea3bc0df528f9147f51d6ec1a706eba9773a161e252a0b70805dd",
+    "02_corpus/D021.md": "60634d151f352a3b6e6f95067569af48956f501c175658bd43a56bee3a4811df",
+    "05_annotations/D021.json": "69c714bd2da04a943b4fd532b5f32dfded12a2384da633f1b51a83b385a874db",
+    "02_corpus/D022.md": "550c8056ecf62d90e3341e57927b3483c269d4b5e754fec5df2381225d69e4d9",
+    "05_annotations/D022.json": "02620a8faa3e68c2f98cc43aba954b2602f44f78d87f77b8bddf840ce23dbd58",
+    "02_corpus/D023.md": "796fd2f483542b6ca679268c94647df2cb5766cabfee42fb310edac91949ca69",
+    "05_annotations/D023.json": "54561e8cd85cbec5b686b12ffe115f0efaf47adec61a88307150fda543fcc3cf",
+    "02_corpus/D024.md": "e105358675422ed7700bf1ee8dc90f1d3188a6881c7a61bc0ebd2ddfec09f086",
+    "05_annotations/D024.json": "ab1f196b7711af5bcae2be770d59c009cb898c3204392a6172d07854d385adfc"
+  }
+}

@@ -1,0 +1,19 @@
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.yml text eol=lf
+*.svg text eol=lf
+*.png binary
+*.pdf binary
+*.docx binary
+
+# Preserve exact source bytes used by integrity checks
+01_original/** -text
+02_corpus/D*.md -text
+03_prompts/*.md -text
+04_protocol/corrections/*.txt -text
+dialogue_registry.csv -text
+04_protocol/analysis_sample.csv -text
+05_annotations/human_nat.csv -text

@@ -1,0 +1,210 @@
+{
+  "source": "06_results/summary.json",
+  "source_sha256": "10bc67d2d74c4d3bf1557a911368cad7f7d6027b5de51d7324258d6e6b7f8e47",
+  "figures": [
+    {
+      "collection": "nat",
+      "id": "01_score_distribution",
+      "title": "Распределение оценок естественности диалогов",
+      "caption": "Число диалогов с каждым баллом NAT; по 24 оценки каждого оценщика.",
+      "png": "06_results/figures/nat/png/01_score_distribution.png",
+      "svg": "06_results/figures/nat/svg/01_score_distribution.svg",
+      "sha256": {
+        "png": "c61f0a7371756389658bcd500b72d1789aa2dac9fa54c8225e560dcd1a6c5d62",
+        "svg": "ec367ce1b1636a666328f6b2e7d81aeed9596d52ddcd2fade765fb60f9dabd11"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "02_group_distributions",
+      "title": "Распределение NAT по группам диалогов",
+      "caption": "Абсолютные частоты оценок NAT; шесть диалогов в каждой группе.",
+      "png": "06_results/figures/nat/png/02_group_distributions.png",
+      "svg": "06_results/figures/nat/svg/02_group_distributions.svg",
+      "sha256": {
+        "png": "342297788d633a452c6f056c33970d7de0bcb244e9ba7c1c6079788d4c37ce39",
+        "svg": "884edea956bcd3137908c8a61a5014e23114fb2d744785b2a42be4eac9767aa8"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "03_group_proportions",
+      "title": "Доли оценок естественности по группам",
+      "caption": "Распределение порядковых баллов; проценты рассчитаны отдельно для каждой группы и оценщика.",
+      "png": "06_results/figures/nat/png/03_group_proportions.png",
+      "svg": "06_results/figures/nat/svg/03_group_proportions.svg",
+      "sha256": {
+        "png": "4ccfcf4c7623c5242e93c0138635da11cff7a226e74bb8db3825df24dabc1075",
+        "svg": "c1419572acad2012a4c3a58fcd3715f3e35dc1d601e5f472142c80e9a79e2e12"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "04_agreement_matrix",
+      "title": "Совпадения и расхождения оценок NAT",
+      "caption": "Ячейка показывает число диалогов с соответствующей парой оценок.",
+      "png": "06_results/figures/nat/png/04_agreement_matrix.png",
+      "svg": "06_results/figures/nat/svg/04_agreement_matrix.svg",
+      "sha256": {
+        "png": "6e0961bbc9e3aa1be463faf6ea66b6c59c0d57384b0d19ace3af75a84c74c10a",
+        "svg": "145fa8d00d1495057b1626963973fe1911d75ee4f4c95680298e84d3a9591123"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "05_paired_ratings",
+      "title": "Парные оценки естественности по диалогам",
+      "caption": "Линия соединяет две оценки одного диалога. Круг — LLM; контурный квадрат — человек.",
+      "png": "06_results/figures/nat/png/05_paired_ratings.png",
+      "svg": "06_results/figures/nat/svg/05_paired_ratings.svg",
+      "sha256": {
+        "png": "926293c619045ff81bb518c4296aefe4cc7c0c2a83418f62865a3ec74b6f4ef6",
+        "svg": "1d93553eed13dbdc2dc23f48d2e52eea84c59411aa6a821cb761778a8ee5046f"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "06_rating_differences",
+      "title": "Разности оценок естественности",
+      "caption": "Знак разности отражает направление расхождения; ноль означает точное совпадение.",
+      "png": "06_results/figures/nat/png/06_rating_differences.png",
+      "svg": "06_results/figures/nat/svg/06_rating_differences.svg",
+      "sha256": {
+        "png": "1873f64727b45357e9bd0fb73dfa0ef165081d6bf8b8569509ff9fc2f61faf6f",
+        "svg": "0cb381ef166f0aac2554e07924851deefdeac8ed0195f9883ababf122e37d0fc"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "07_observations_and_medians",
+      "title": "Индивидуальные оценки и медианы NAT",
+      "caption": "Точки — отдельные диалоги; горизонтальные отрезки — медианы соответствующего оценщика.",
+      "png": "06_results/figures/nat/png/07_observations_and_medians.png",
+      "svg": "06_results/figures/nat/svg/07_observations_and_medians.svg",
+      "sha256": {
+        "png": "99069ce12c52c6d35f2f8a18d31ca12dfcab5444cbda603c57a273be230a5cd4",
+        "svg": "0fa264ca744b9a8b7d43441c7e8e2667f87f94dec8f45d559785e16415781122"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "08_group_means",
+      "title": "Средняя естественность диалогов по группам",
+      "caption": "Описательные средние порядковых баллов; вывод о статистической значимости не делается.",
+      "png": "06_results/figures/nat/png/08_group_means.png",
+      "svg": "06_results/figures/nat/svg/08_group_means.svg",
+      "sha256": {
+        "png": "00e7b04b27df1eb17acef0585ae63accd974d2dde00e5fa0a484ca41281c6619",
+        "svg": "8f2ecf1c7dfd5138192de9137a2248914942f4fd590dcc6feab7a93d9ceac75c"
+      }
+    },
+    {
+      "collection": "nat",
+      "id": "09_grouped_lines",
+      "title": "Оценки естественности по группам диалогов",
+      "caption": "Диалоги упорядочены по группам К, А, Б, В. Цвет подписей обозначает группу; линии — оценщика.",
+      "png": "06_results/figures/nat/png/09_grouped_lines.png",
+      "svg": "06_results/figures/nat/svg/09_grouped_lines.svg",
+      "sha256": {
+        "png": "f69a717a66b55c97bb72940e4e3bc6e443173bee52f61850084e796da388510d",
+        "svg": "1693b4a11c8b4783dcb1bc463884eb82bc800e23195646720741430977d28210"
+      }
+    },
+    {
+      "collection": "guilt",
+      "id": "01_group_comparison",
+      "title": "Наличие апелляции к вине по группам",
+      "caption": "Человеческая метка задана автором по группе; машинная оценка сохранена без подмены эталоном.",
+      "png": "06_results/figures/guilt/png/01_group_comparison.png",
+      "svg": "06_results/figures/guilt/svg/01_group_comparison.svg",
+      "sha256": {
+        "png": "23266993616e4fafbc4a6772f7e54b3831f1ff737ba0d934815e85646328ade7",
+        "svg": "64493c29affab1fba51075654987a1aea29ffb9bd5b560f7b85964d2f1e0e2de"
+      }
+    },
+    {
+      "collection": "guilt",
+      "id": "02_confusion_and_performance",
+      "title": "Согласованность оценки GUILT с человеческим эталоном",
+      "caption": "Результаты относительно принятого группового эталона; расхождения: D015, D018, D024.",
+      "png": "06_results/figures/guilt/png/02_confusion_and_performance.png",
+      "svg": "06_results/figures/guilt/svg/02_confusion_and_performance.svg",
+      "sha256": {
+        "png": "2a88e7efa9ba9103e4a215458849fdcbf8517b60be9480c77dae6d0e62d1a4a8",
+        "svg": "cdc2cc676c747d8c787f96358843e9c13dc2c7509007c483332d3fef166d09fd"
+      }
+    },
+    {
+      "collection": "fld_freq",
+      "id": "01_group_means",
+      "title": "Разнообразие и частотность средств апелляции к вине",
+      "caption": "Столбцы — средние, точки — отдельные диалоги. Подсчёт по сохранённым occurrences модели, включая вложенные реализации.",
+      "png": "06_results/figures/fld_freq/png/01_group_means.png",
+      "svg": "06_results/figures/fld_freq/svg/01_group_means.svg",
+      "sha256": {
+        "png": "d32175b3cc9bcce57cbcdee3353dd7efb588c912f971f495829b667520cc8c3e",
+        "svg": "62365f57598e46867b4b4c054d7c386cfbadb52f6b084bf050d0a6b2d485e1d4"
+      }
+    },
+    {
+      "collection": "fld_freq",
+      "id": "02_dialogue_metrics",
+      "title": "FLD и FREQ по всем диалогам",
+      "caption": "Порядок групп: К, А, Б, В; исходные машинные реализации сохранены и при расхождении по GUILT.",
+      "png": "06_results/figures/fld_freq/png/02_dialogue_metrics.png",
+      "svg": "06_results/figures/fld_freq/svg/02_dialogue_metrics.svg",
+      "sha256": {
+        "png": "97963194684165ed985ba23bd064a38c83e2a699ed1e9b24b0e781c7938dc55e",
+        "svg": "ad0d88d8fb9a4b034b7864d1cc528f19d880363c015be5d69b776c142a931d46"
+      }
+    },
+    {
+      "collection": "fld_freq",
+      "id": "03_category_coverage_and_frequency",
+      "title": "Представленность категорий G01–G15",
+      "caption": "Охват диалогов и количество реализаций — разные единицы; G14 означает речевые акты, G15 — многоходовые последовательности.",
+      "png": "06_results/figures/fld_freq/png/03_category_coverage_and_frequency.png",
+      "svg": "06_results/figures/fld_freq/svg/03_category_coverage_and_frequency.svg",
+      "sha256": {
+        "png": "1198163f6f462795da5d4c726d2cccc803b44ae45c3f74fa162bbeec49f59df2",
+        "svg": "fd6dedbb7631027d08a01d6379270d747a8cb4d28aefb01bcf86095dd53e3123"
+      }
+    },
+    {
+      "collection": "fld_freq",
+      "id": "04_language_levels",
+      "title": "Языковые уровни в структуре размеченных реализаций",
+      "caption": "Доли уровней рассчитаны по числу записей occurrences; вложенные коды входят в подсчёт как отдельные реализации.",
+      "png": "06_results/figures/fld_freq/png/04_language_levels.png",
+      "svg": "06_results/figures/fld_freq/svg/04_language_levels.svg",
+      "sha256": {
+        "png": "2d207c6f29b4f872831d93d249680c1409a3ccb579989194661357e53f7c99a3",
+        "svg": "bb3b71a3a8d9408dc2a5916680d5f6730b8d5fc291c34dfd0a0b864bdf879c9a"
+      }
+    },
+    {
+      "collection": "fld_freq",
+      "id": "05_diversity_frequency",
+      "title": "Соотношение разнообразия и частотности",
+      "caption": "Совпадающие точки подписаны совместно. График показывает описательное соотношение; причинный вывод не делается.",
+      "png": "06_results/figures/fld_freq/png/05_diversity_frequency.png",
+      "svg": "06_results/figures/fld_freq/svg/05_diversity_frequency.svg",
+      "sha256": {
+        "png": "c33b336dae99daaba93aa48754e9a7df5b1a0330286d4ddc23825ff2a7542d7e",
+        "svg": "60cf5bf3cd4390f0b8e58e0daabacbc652c2c972ceba846e7568a5f3a5982e02"
+      }
+    },
+    {
+      "collection": "fld_freq",
+      "id": "06_frequency_per_100_words",
+      "title": "Средняя частота средств апелляции к вине на 100 слов",
+      "caption": "Среднее индивидуальных отношений 100 × FREQ / число слов; не отношение сумм и не общая информационная насыщенность.",
+      "png": "06_results/figures/fld_freq/png/06_frequency_per_100_words.png",
+      "svg": "06_results/figures/fld_freq/svg/06_frequency_per_100_words.svg",
+      "sha256": {
+        "png": "d44d31c7e2019798ee78a98265047eb21d2b4284baf5e76aada218576bcd226e",
+        "svg": "a361e96f12af0040aa3dc52df6558ca6b051bfe7e3d71ddbf2026a061919ef50"
+      }
+    }
+  ]
+}

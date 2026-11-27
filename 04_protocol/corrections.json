@@ -1,0 +1,11 @@
+{
+  "D040": {
+    "group": "Б",
+    "source_file": "ДИАЛОГИ Б.docx",
+    "original_dialogue_number": 2,
+    "replacement_file": "04_protocol/corrections/D040.txt",
+    "sha256": "ad53c6070bed3be7264574199fd85581860f75b34a2c162bca05558c2e2b4888",
+    "source": "complete replacement dialogue supplied by the project author in the research chat",
+    "note": "Configuration restored from the preserved replacement and registry; corpus text unchanged."
+  }
+}

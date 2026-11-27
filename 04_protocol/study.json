@@ -1,0 +1,45 @@
+{
+  "snapshot_date": "2026-11-27",
+  "analysis_dialogues": 24,
+  "source_pool_dialogues": 40,
+  "groups": [
+    "К",
+    "А",
+    "Б",
+    "В"
+  ],
+  "dialogues_per_analysis_group": 6,
+  "evaluated_turns": [
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "A6"
+  ],
+  "context_only_turns": [
+    "A0",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6"
+  ],
+  "human_reference_guilt": {
+    "К": 0,
+    "А": 1,
+    "Б": 1,
+    "В": 1
+  },
+  "review_status": "verified",
+  "review_authority": "project author instruction dated 2026-11-27",
+  "generation_model_as_reported_in_article": "GigaChat, web interface",
+  "generation_exact_version": null,
+  "annotation_model_as_reported_in_article": "Astra / High",
+  "annotation_exact_version": null,
+  "github_account_discovered": "ivanchirkin",
+  "github_repository_url": null,
+  "code_license": null,
+  "data_license": null
+}
